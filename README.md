@@ -4,9 +4,9 @@ A simple webapp that makes it easy to interact with Gemini Pro
 ---
 ## Requirements
 - Python 3.8+
-- GCP account
-- Google SDK
-- Streamlit
+- GCP Account
+- Google Cloud SDK
+- `pip install streamlit vertexai`
 
 
 ## To run
